@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/LuisWolfSeller/wolf-test-storefront/
+    url: https://content.da.live/luiswolfseller/wolf-test-storefront/
     type: markup
 
 folders:
